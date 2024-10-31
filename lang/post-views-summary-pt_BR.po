@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: post-views-summary 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-07 19:49+0100\n"
+"PO-Revision-Date: 2009-09-07 19:49+0100\n"
+"Last-Translator: deringbr@hotmail.com <deringbr@hotmail.com>\n"
+"Language-Team: deringbr@hotmail.com <deringbr@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-postviews-summary-widget.php:69
+msgid "Post Views Summary"
+msgstr "Índice de exibição Postagens"
+
+#: wp-postviews-summary-widget.php:81
+#: wp-postviews-summary-widget.php:188
+msgid "posts/pages"
+msgstr "postagens/páginas"
+
+#: wp-postviews-summary-widget.php:84
+#: wp-postviews-summary-widget.php:186
+msgid "posts"
+msgstr "postagens"
+
+#: wp-postviews-summary-widget.php:87
+#: wp-postviews-summary-widget.php:187
+msgid "pages"
+msgstr "páginas"
+
+#: wp-postviews-summary-widget.php:92
+msgid "most"
+msgstr "mais"
+
+#: wp-postviews-summary-widget.php:95
+msgid "least"
+msgstr "menos"
+
+#: wp-postviews-summary-widget.php:103
+#, php-format
+msgid "<br /><small>Limit to tag: %s</small>"
+msgstr "<br /><small>Limite por tag: %s</small>"
+
+#: wp-postviews-summary-widget.php:106
+#, php-format
+msgid "<br /><small>Limit to category: %s</small>"
+msgstr "<br /><small>Limite por categoria: %s</small>"
+
+#: wp-postviews-summary-widget.php:110
+#, php-format
+msgid "<b>%d %s viewed %s</b>%s"
+msgstr "<b>%d %s vistos %s</b>%s"
+
+#: wp-postviews-summary-widget.php:163
+msgid "<b>Install WP-PostViews plugin</b>"
+msgstr "<b>Instalar plugin WP-PostViews</b>"
+
+#: wp-postviews-summary-widget.php:165
+msgid "Show posts summary"
+msgstr "Exibir índice das postagens"
+
+#: wp-postviews-summary-widget.php:184
+msgid "Show "
+msgstr "Exibir "
+
+#: wp-postviews-summary-widget.php:192
+msgid "Up to "
+msgstr "Para cima "
+
+#: wp-postviews-summary-widget.php:202
+msgid "Sorting "
+msgstr "Aleatório "
+
+#: wp-postviews-summary-widget.php:204
+msgid "most viewed"
+msgstr "mais vistos"
+
+#: wp-postviews-summary-widget.php:205
+msgid "least viewed"
+msgstr "menos vistos"
+
+#: wp-postviews-summary-widget.php:209
+msgid "Limited to"
+msgstr "ilimitado"
+
+#: wp-postviews-summary-widget.php:210
+msgid " not limited"
+msgstr "limitado"
+
+#: wp-postviews-summary-widget.php:214
+msgid "tag "
+msgstr "tag "
+
+#: wp-postviews-summary-widget.php:229
+msgid "category "
+msgstr "categoria "
+

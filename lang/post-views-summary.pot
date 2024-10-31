@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-views-summary 1.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-23 14:36+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter Hilbring <peter@hilbring.de>\n"
+"Language-Team: Peter Hilbring <peter@hilbring.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-postviews-summary-widget.php:72
+msgid "Post Views Summary"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:84
+#: wp-postviews-summary-widget.php:191
+msgid "posts/pages"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:87
+#: wp-postviews-summary-widget.php:189
+msgid "posts"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:90
+#: wp-postviews-summary-widget.php:190
+msgid "pages"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:95
+msgid "most"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:98
+msgid "least"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:106
+#, php-format
+msgid "<br /><small>Limit to tag: %s</small>"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:109
+#, php-format
+msgid "<br /><small>Limit to category: %s</small>"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:113
+#, php-format
+msgid "<b>%d %s viewed %s</b>%s"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:166
+msgid "<b>Install WP-PostViews plugin</b>"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:168
+msgid "Show posts summary"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:187
+msgid "Show "
+msgstr ""
+
+#: wp-postviews-summary-widget.php:195
+msgid "Up to "
+msgstr ""
+
+#: wp-postviews-summary-widget.php:205
+msgid "Sorting "
+msgstr ""
+
+#: wp-postviews-summary-widget.php:207
+msgid "most viewed"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:208
+msgid "least viewed"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:212
+msgid "Limited to"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:213
+msgid " not limited"
+msgstr ""
+
+#: wp-postviews-summary-widget.php:217
+msgid "tag "
+msgstr ""
+
+#: wp-postviews-summary-widget.php:232
+msgid "category "
+msgstr ""
+
